@@ -1,0 +1,6 @@
+D:\Softheme_Internship\Delegates\DelegatesArray\obj\Debug\DelegatesArray.csprojResolveAssemblyReference.cache
+D:\Softheme_Internship\Delegates\DelegatesArray\bin\Debug\DelegatesArray.exe.config
+D:\Softheme_Internship\Delegates\DelegatesArray\bin\Debug\DelegatesArray.exe
+D:\Softheme_Internship\Delegates\DelegatesArray\bin\Debug\DelegatesArray.pdb
+D:\Softheme_Internship\Delegates\DelegatesArray\obj\Debug\DelegatesArray.exe
+D:\Softheme_Internship\Delegates\DelegatesArray\obj\Debug\DelegatesArray.pdb
